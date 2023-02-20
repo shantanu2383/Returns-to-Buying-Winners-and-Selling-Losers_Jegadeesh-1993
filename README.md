@@ -1,4 +1,5 @@
 # Jegadeesh_Titman-1993
+https://www.jstor.org/stable/2328882
 
 This code in this repository presents the results of an investigation into the profitability of relative strength trading strategies, based on the methodology outlined in Jegadeesh and Titman's 1993 paper, 'Returns to buying winners and losers'. Our study replicates Table 1 from the original paper, analyzing NYSE and AMEX stocks from 1992 to 2022 using 16 trading strategies that select stocks based on their past returns, with holding periods ranging from 1 to 4 quarters.
 
